@@ -1,0 +1,10 @@
+//
+// Created by EYx on 2023/5/10.
+//
+
+#ifndef FRNS_BOOTSTRAP_MYTESTBOOTSTRAP_H
+#define FRNS_BOOTSTRAP_MYTESTBOOTSTRAP_H
+
+void testModulusSwitch();
+
+#endif //FRNS_BOOTSTRAP_MYTESTBOOTSTRAP_H
